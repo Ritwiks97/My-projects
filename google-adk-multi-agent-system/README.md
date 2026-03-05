@@ -5,6 +5,7 @@ A **multi-agent AI system** built using the **Google Agent Development Kit** and
 The system demonstrates how an **orchestrator agent routes user queries to specialized expert agents**.
 
 This project is designed to handle **only Mathematics and Computer Science related queries**. If a user asks questions outside these areas (such as general knowledge, entertainment, or personal advice), the system will **not generate an answer** and will instead respond that the query is **outside the scope of the project**.
+
 ---
 
 ## 📌 Features
